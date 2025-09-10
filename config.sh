@@ -16,4 +16,4 @@ DESTINY_PASSW="debug"
 DESTINY_SCHEMA="DATABASE_API"
 
 # List of collections to export and import
-collections=("cfg_currency" "cfg_country" "cfg_state" "cfg_municipality")
+collections=("cfg_currency" "cfg_country" "cfg_state" "cfg_municipality")  # Example collections
